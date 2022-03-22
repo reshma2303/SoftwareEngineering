@@ -1,0 +1,16 @@
+book_id,book_name,n_copies_available,is_journal
+b001,Data Mining,3,N
+b002,Data Science,3,N
+b003,Machine Learning,3,N
+b004,Deep Learning,3,N
+b005,Python,3,N
+b006,Artificial Intelligence,1,N
+b007,Software Engineering,3,N
+b008,Data Structures,3,N
+b009,Programming Languages,3,N
+b010,Evolutionary Computation,3,N
+b011,IEEE Transactions on Computers,4,Y
+b012,IEEE Transactions on Fuzzy Systems,4,Y
+b013,IEEE Transactions on Evolutionary computation,4,Y
+b014,Journal of Cryptology,4,Y
+b015,Communications of the ACM,4,Y
