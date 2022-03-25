@@ -1,0 +1,14 @@
+member_id,first_name,last_name,is_staff_member,n_items_taken
+m001,James,David,N,0
+m002,Jennifer,John,N,0
+m003,Barbara,David,N,0
+m004,Sarah,Thomas,N,0
+m005,Christopher,Leaver,N,0
+m006,Daniel,Antony,N,0
+m007,Mitchell,Joshua,N,0
+m008,Kevin,K,N,0
+m009,Melissa,George,N,0
+m010,Sharon,J,N,0
+m011,Cynthia,R,Y,0
+m012,Gary,Eric,Y,0
+m013,Helen,Jonathan,Y,0
